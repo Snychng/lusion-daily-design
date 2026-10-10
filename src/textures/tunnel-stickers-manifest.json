@@ -1,0 +1,287 @@
+{
+  "generator": "scripts/build-brand-stickers.mjs",
+  "source": "src/textures/tunnel-stickers.svg",
+  "sourceSha256": "724cadcbb2b28641e993c3bcf0e6f8314fee38b75d3cc3879b14ffc1af6532ca",
+  "sourceRuntime": "reference/_astro/hoisted.CUO_IjfL.js",
+  "font": {
+    "path": "brand-assets/media/fonts/bodoni-moda-italic.ttf",
+    "sha256": "6d96edce889d7c615f94aa14e94e76ad5dba0611a02ccd0a970efe91dabb0078",
+    "method": "OpenType outline paths embedded into SVG; no system font fallback"
+  },
+  "contract": {
+    "atlasSize": [
+      1465,
+      1024
+    ],
+    "lowSize": [
+      733,
+      512
+    ],
+    "channels": 4,
+    "alpha": "Transparent outside authored cutout stickers; source pixel artwork not reused",
+    "slotsUnchanged": true,
+    "runtimeChanges": "Texture mapping only; all 26 UV rectangles, rotation, trajectory, spawn count, scaling, blending, fade and interaction remain unchanged"
+  },
+  "slots": [
+    {
+      "x": 1132,
+      "y": 3,
+      "w": 195,
+      "h": 195,
+      "id": "daily-disc"
+    },
+    {
+      "x": 744,
+      "y": 3,
+      "w": 195,
+      "h": 256,
+      "id": "elastic-ui"
+    },
+    {
+      "x": 525,
+      "y": 3,
+      "w": 213,
+      "h": 282,
+      "id": "bezier-handles"
+    },
+    {
+      "x": 242,
+      "y": 3,
+      "w": 277,
+      "h": 286,
+      "id": "interface-cards"
+    },
+    {
+      "x": 1055,
+      "y": 633,
+      "w": 209,
+      "h": 209,
+      "id": "orbital-geometry"
+    },
+    {
+      "x": 1076,
+      "y": 398,
+      "w": 209,
+      "h": 209,
+      "id": "pointer-focus"
+    },
+    {
+      "x": 3,
+      "y": 772,
+      "w": 298,
+      "h": 249,
+      "id": "motion-path"
+    },
+    {
+      "x": 945,
+      "y": 3,
+      "w": 181,
+      "h": 249,
+      "id": "faceted-prism"
+    },
+    {
+      "x": 1291,
+      "y": 389,
+      "w": 160,
+      "h": 197,
+      "id": "speed-vector"
+    },
+    {
+      "x": 1055,
+      "y": 848,
+      "w": 83,
+      "h": 122,
+      "id": "optical-droplet"
+    },
+    {
+      "x": 1132,
+      "y": 204,
+      "w": 167,
+      "h": 179,
+      "id": "radial-grid"
+    },
+    {
+      "x": 1270,
+      "y": 828,
+      "w": 192,
+      "h": 193,
+      "id": "daily-optical-badge"
+    },
+    {
+      "x": 780,
+      "y": 265,
+      "w": 182,
+      "h": 167,
+      "id": "toggle-state"
+    },
+    {
+      "x": 564,
+      "y": 445,
+      "w": 294,
+      "h": 184,
+      "id": "ui-ux-letterforms"
+    },
+    {
+      "x": 307,
+      "y": 683,
+      "w": 205,
+      "h": 334,
+      "id": "depth-stack"
+    },
+    {
+      "x": 864,
+      "y": 438,
+      "w": 206,
+      "h": 189,
+      "id": "selection-pivot"
+    },
+    {
+      "x": 968,
+      "y": 258,
+      "w": 149,
+      "h": 134,
+      "id": "focus-lenses"
+    },
+    {
+      "x": 734,
+      "y": 635,
+      "w": 165,
+      "h": 382,
+      "id": "timeline-scrubber"
+    },
+    {
+      "x": 605,
+      "y": 291,
+      "w": 169,
+      "h": 141,
+      "id": "play-pause"
+    },
+    {
+      "x": 302,
+      "y": 445,
+      "w": 256,
+      "h": 232,
+      "id": "prototype-window"
+    },
+    {
+      "x": 518,
+      "y": 683,
+      "w": 210,
+      "h": 266,
+      "id": "spring-interaction"
+    },
+    {
+      "x": 242,
+      "y": 295,
+      "w": 357,
+      "h": 144,
+      "id": "daily-wordmark"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "w": 233,
+      "h": 469,
+      "id": "mobile-interface"
+    },
+    {
+      "x": 905,
+      "y": 633,
+      "w": 144,
+      "h": 340,
+      "id": "material-sliders"
+    },
+    {
+      "x": 1270,
+      "y": 613,
+      "w": 187,
+      "h": 209,
+      "id": "interaction-pad"
+    },
+    {
+      "x": 3,
+      "y": 478,
+      "w": 293,
+      "h": 288,
+      "id": "chromatic-refraction"
+    }
+  ],
+  "files": [
+    {
+      "path": "brand-assets/textures/tunnels/stickers.png",
+      "sha256": "7c593842f58ba87078f59bbaad84a937638a067778b6d4fc1710be116233d4c7",
+      "width": 1465,
+      "height": 1024,
+      "channels": 4,
+      "transparent": 738416,
+      "opaque": 742236,
+      "partial": 19508,
+      "slotAlphaCoverage": [
+        0.6537278106508876,
+        0.6221955128205128,
+        0.7314287616954683,
+        0.7126429527151549,
+        0.6264050731439299,
+        0.6264050731439299,
+        0.34135198512169485,
+        0.5023408551332401,
+        0.35475888324873095,
+        0.42711830930278494,
+        0.48074800120429534,
+        0.6509607081174439,
+        0.43386852668289794,
+        0.5953674948240165,
+        0.6246531327588725,
+        0.571274464478348,
+        0.4792647500751277,
+        0.5975525137198007,
+        0.5043014813882244,
+        0.7045393318965517,
+        0.39434300035803793,
+        0.6655773420479303,
+        0.7684691197598763,
+        0.6783088235294118,
+        0.6400736893278407,
+        0.45705346985210465
+      ]
+    },
+    {
+      "path": "brand-assets/textures/tunnels/stickers_low.png",
+      "sha256": "c14b5a8cb09c0a088924825d4723ebe9278f56ca32cf48eef7afe61568d060d1",
+      "width": 733,
+      "height": 512,
+      "channels": 4,
+      "transparent": 172590,
+      "opaque": 173647,
+      "partial": 29059,
+      "slotAlphaCoverage": [
+        0.6860683048729695,
+        0.6536149343458314,
+        0.7475221700573813,
+        0.7348121502797762,
+        0.6508535489667565,
+        0.6577777777777778,
+        0.36901333333333336,
+        0.5267826086956522,
+        0.4081556303778526,
+        0.47731605032405644,
+        0.5206349206349207,
+        0.6807312147943458,
+        0.46273291925465837,
+        0.6258355129322871,
+        0.6450320512820513,
+        0.6124493927125506,
+        0.5373134328358209,
+        0.6254392570281124,
+        0.5393056010481494,
+        0.7321937321937322,
+        0.4260067586595325,
+        0.6989362516262341,
+        0.7864767399927876,
+        0.7068012496995915,
+        0.6745694022289767,
+        0.481981981981982
+      ]
+    }
+  ]
+}

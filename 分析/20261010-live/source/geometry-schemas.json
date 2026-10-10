@@ -1,0 +1,3242 @@
+[
+  {
+    "file": "reference/assets/models/about/bg_box.buf",
+    "bytes": 454,
+    "header": {
+      "vertexCount": 8,
+      "indexCount": 30,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -187.141113,
+              "delta": 454.191833
+            },
+            {
+              "from": -1.01878357,
+              "delta": 999.99998457
+            },
+            {
+              "from": -200,
+              "delta": 265.39665990000003
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/camera_spline.buf",
+    "bytes": 4784,
+    "header": {
+      "vertexCount": 200,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -19.1331158,
+              "delta": 19.1331158
+            },
+            {
+              "from": 5.46889019,
+              "delta": 44.531109810000004
+            },
+            {
+              "from": -75.1132812,
+              "delta": 70.1132812
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/letter_placements.buf",
+    "bytes": 2272,
+    "header": {
+      "vertexCount": 196,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "dof",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1.64124525
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -86.8225632,
+              "delta": 169.4345322
+            },
+            {
+              "from": -0.851168454,
+              "delta": 16.960175354
+            },
+            {
+              "from": -8.06794453,
+              "delta": 105.08507253
+            }
+          ]
+        },
+        {
+          "id": "density",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/logo_text.buf",
+    "bytes": 22748,
+    "header": {
+      "vertexCount": 1400,
+      "indexCount": 6270,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            },
+            {
+              "from": 0,
+              "delta": 0.200956762
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "char",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/person.buf",
+    "bytes": 86170,
+    "header": {
+      "vertexCount": 2666,
+      "indexCount": 11952,
+      "attributes": [
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "boneWeights",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.50126642,
+              "delta": 0.49873358
+            },
+            {
+              "from": 0,
+              "delta": 0.49873361
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.645396411,
+              "delta": 1.290791869
+            },
+            {
+              "from": -0.0127250003,
+              "delta": 1.8581299803
+            },
+            {
+              "from": -0.307410419,
+              "delta": 0.46624246199999997
+            }
+          ]
+        },
+        {
+          "id": "boneIndices",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": -1.23695815,
+              "delta": 2.5993414
+            },
+            {
+              "from": -1.07975328,
+              "delta": 2.2434448
+            },
+            {
+              "from": -1.03114927,
+              "delta": 2.07071769
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/person_idle.buf",
+    "bytes": 101372,
+    "header": {
+      "vertexCount": 4590,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.865180433,
+              "delta": 1.621914327
+            },
+            {
+              "from": -0.0100133419,
+              "delta": 0.9980354309
+            },
+            {
+              "from": -0.505082548,
+              "delta": 0.6731218099999999
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_0.buf",
+    "bytes": 33891,
+    "header": {
+      "vertexCount": 1475,
+      "indexCount": 3972,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.995050132,
+              "delta": 1.98694998
+            },
+            {
+              "from": -0.998281538,
+              "delta": 1.997062385
+            },
+            {
+              "from": -0.99030757,
+              "delta": 1.97649473
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.164157987,
+              "delta": 0.34428224
+            },
+            {
+              "from": -0.192200661,
+              "delta": 0.409995318
+            },
+            {
+              "from": -0.17882745,
+              "delta": 0.369351164
+            }
+          ]
+        },
+        {
+          "id": "uv",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.00698205782,
+              "delta": 0.9275206631799999
+            },
+            {
+              "from": 0.00177256495,
+              "delta": 0.99666066705
+            }
+          ]
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_0_low.buf",
+    "bytes": 2205,
+    "header": {
+      "vertexCount": 149,
+      "indexCount": 702,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.143146366,
+              "delta": 0.29673101
+            },
+            {
+              "from": -0.162654132,
+              "delta": 0.334234611
+            },
+            {
+              "from": -0.162766412,
+              "delta": 0.315185383
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_1.buf",
+    "bytes": 38409,
+    "header": {
+      "vertexCount": 1649,
+      "indexCount": 4746,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.988124251,
+              "delta": 1.96667242
+            },
+            {
+              "from": -0.999467909,
+              "delta": 1.998358369
+            },
+            {
+              "from": -0.99254781,
+              "delta": 1.9821195600000001
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.208166197,
+              "delta": 0.426314756
+            },
+            {
+              "from": -0.151821375,
+              "delta": 0.31799984000000003
+            },
+            {
+              "from": -0.166100681,
+              "delta": 0.350717202
+            }
+          ]
+        },
+        {
+          "id": "uv",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.00134356786,
+              "delta": 0.99620781414
+            },
+            {
+              "from": 0.00273972587,
+              "delta": 0.99484670313
+            }
+          ]
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_1_low.buf",
+    "bytes": 2205,
+    "header": {
+      "vertexCount": 149,
+      "indexCount": 702,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.143146366,
+              "delta": 0.29673101
+            },
+            {
+              "from": -0.162654132,
+              "delta": 0.334234611
+            },
+            {
+              "from": -0.162766412,
+              "delta": 0.315185383
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_2.buf",
+    "bytes": 39145,
+    "header": {
+      "vertexCount": 1689,
+      "indexCount": 4770,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.992114961,
+              "delta": 1.9887086749999998
+            },
+            {
+              "from": -0.999938071,
+              "delta": 1.991359949
+            },
+            {
+              "from": -0.988615572,
+              "delta": 1.963566064
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.165039808,
+              "delta": 0.34862077300000005
+            },
+            {
+              "from": -0.151074409,
+              "delta": 0.332657814
+            },
+            {
+              "from": -0.181701079,
+              "delta": 0.351118609
+            }
+          ]
+        },
+        {
+          "id": "uv",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.00165309978,
+              "delta": 0.9071773642200001
+            },
+            {
+              "from": 0.00515219849,
+              "delta": 0.99288782151
+            }
+          ]
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_2_low.buf",
+    "bytes": 2205,
+    "header": {
+      "vertexCount": 149,
+      "indexCount": 702,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.143146366,
+              "delta": 0.29673101
+            },
+            {
+              "from": -0.162654132,
+              "delta": 0.334234611
+            },
+            {
+              "from": -0.162766412,
+              "delta": 0.315185383
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_3.buf",
+    "bytes": 40024,
+    "header": {
+      "vertexCount": 1728,
+      "indexCount": 4878,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.992992818,
+              "delta": 1.990783929
+            },
+            {
+              "from": -0.99953866,
+              "delta": 1.980504096
+            },
+            {
+              "from": -0.992533267,
+              "delta": 1.9742413170000002
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.16596882,
+              "delta": 0.34695869599999996
+            },
+            {
+              "from": -0.154101849,
+              "delta": 0.33915329000000005
+            },
+            {
+              "from": -0.182813063,
+              "delta": 0.352673232
+            }
+          ]
+        },
+        {
+          "id": "uv",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.0046521388,
+              "delta": 0.9936065112
+            },
+            {
+              "from": 0.000104112769,
+              "delta": 0.996995585231
+            }
+          ]
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_3_low.buf",
+    "bytes": 2205,
+    "header": {
+      "vertexCount": 149,
+      "indexCount": 702,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.143146366,
+              "delta": 0.29673101
+            },
+            {
+              "from": -0.162654132,
+              "delta": 0.334234611
+            },
+            {
+              "from": -0.162766412,
+              "delta": 0.315185383
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_animation_0.buf",
+    "bytes": 42624,
+    "header": {
+      "vertexCount": 1920,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -2.32860303,
+              "delta": 5.38028956
+            },
+            {
+              "from": 0.024312973,
+              "delta": 2.3437018370000002
+            },
+            {
+              "from": -1.60352397,
+              "delta": 3.11234295
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_animation_1.buf",
+    "bytes": 42628,
+    "header": {
+      "vertexCount": 1920,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -4.24548864,
+              "delta": 6.788126699999999
+            },
+            {
+              "from": 0.0216202736,
+              "delta": 2.3550271964
+            },
+            {
+              "from": -3.23615146,
+              "delta": 4.99284673
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_animation_2.buf",
+    "bytes": 42628,
+    "header": {
+      "vertexCount": 1920,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -2.06668139,
+              "delta": 3.9629644199999996
+            },
+            {
+              "from": 0.025696516,
+              "delta": 2.412409544
+            },
+            {
+              "from": -0.989508092,
+              "delta": 4.537498892
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/rock_animation_3.buf",
+    "bytes": 42620,
+    "header": {
+      "vertexCount": 1920,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -2.3261683,
+              "delta": 3.46509767
+            },
+            {
+              "from": 0.0300257206,
+              "delta": 2.2901637594
+            },
+            {
+              "from": -1.71099913,
+              "delta": 4.03801954
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/sphere_l.buf",
+    "bytes": 1732,
+    "header": {
+      "vertexCount": 73,
+      "indexCount": 360,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 0.5
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/sphere_m.buf",
+    "bytes": 1036,
+    "header": {
+      "vertexCount": 33,
+      "indexCount": 144,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 0.5
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/sphere_s.buf",
+    "bytes": 744,
+    "header": {
+      "vertexCount": 17,
+      "indexCount": 48,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 0.5
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/sphere_xs.buf",
+    "bytes": 624,
+    "header": {
+      "vertexCount": 9,
+      "indexCount": 24,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -0.5,
+              "delta": 0.5
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/terrain.buf",
+    "bytes": 396996,
+    "header": {
+      "vertexCount": 13872,
+      "indexCount": 80238,
+      "attributes": [
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -37.4282227,
+              "delta": 90.8383599
+            },
+            {
+              "from": -1.01878357,
+              "delta": 20.46981237
+            },
+            {
+              "from": -26.8102531,
+              "delta": 92.206913
+            }
+          ]
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": -0.887343109,
+              "delta": 1.8117055899999999
+            },
+            {
+              "from": 0.400952011,
+              "delta": 0.6524443289999999
+            },
+            {
+              "from": -0.898287475,
+              "delta": 1.792367637
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/about/terrain_lines.buf",
+    "bytes": 71276,
+    "header": {
+      "vertexCount": 11832,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -63.2222748,
+              "delta": 121.3617096
+            },
+            {
+              "from": 1,
+              "delta": 18
+            },
+            {
+              "from": -24.5342274,
+              "delta": 116.0014668
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/home/cross.buf",
+    "bytes": 282676,
+    "header": {
+      "vertexCount": 4940,
+      "indexCount": 29628,
+      "attributes": [
+        {
+          "id": "daoN",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "SN",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.968953609,
+              "delta": 1.937841594
+            },
+            {
+              "from": -0.96911186,
+              "delta": 1.9382835630000002
+            },
+            {
+              "from": -0.969154179,
+              "delta": 1.9382396339999999
+            }
+          ]
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "daoP",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            },
+            {
+              "from": 0,
+              "delta": 1
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            }
+          ]
+        },
+        {
+          "id": "thickness",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/home/cross_ld.buf",
+    "bytes": 123984,
+    "header": {
+      "vertexCount": 2156,
+      "indexCount": 12924,
+      "attributes": [
+        {
+          "id": "daoN",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "SN",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.971167326,
+              "delta": 1.942220867
+            },
+            {
+              "from": -0.971993685,
+              "delta": 1.943342984
+            },
+            {
+              "from": -0.972572684,
+              "delta": 1.9439250819999998
+            }
+          ]
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "daoP",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            },
+            {
+              "from": 0,
+              "delta": 1
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            }
+          ]
+        },
+        {
+          "id": "thickness",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/lines/line_capability.buf",
+    "bytes": 12844,
+    "header": {
+      "vertexCount": 640,
+      "indexCount": 1914,
+      "attributes": [
+        {
+          "id": "CP",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.00999999046,
+              "delta": 1.0199999804600002
+            },
+            {
+              "from": -0.0107191205,
+              "delta": 1.0933533304999998
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.999986351,
+              "delta": 1.999972702
+            },
+            {
+              "from": -0.999999642,
+              "delta": 1.999999284
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "Cd",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/lines/line_goal.buf",
+    "bytes": 12840,
+    "header": {
+      "vertexCount": 640,
+      "indexCount": 1914,
+      "attributes": [
+        {
+          "id": "CP",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.00999999046,
+              "delta": 1.0200001004600001
+            },
+            {
+              "from": -0.00840097666,
+              "delta": 0.85690158566
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.999999881,
+              "delta": 1.999999762
+            },
+            {
+              "from": -0.999998152,
+              "delta": 1.999996304
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "Cd",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/lines/line_office.buf",
+    "bytes": 12832,
+    "header": {
+      "vertexCount": 640,
+      "indexCount": 1914,
+      "attributes": [
+        {
+          "id": "CP",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.00999996066,
+              "delta": 1.01999983066
+            },
+            {
+              "from": -0.0118450522,
+              "delta": 1.2081970622
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.999972224,
+              "delta": 1.999944448
+            },
+            {
+              "from": -0.999984562,
+              "delta": 1.999969124
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "Cd",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/lines/line_reel.buf",
+    "bytes": 12840,
+    "header": {
+      "vertexCount": 640,
+      "indexCount": 1914,
+      "attributes": [
+        {
+          "id": "CP",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.00999999046,
+              "delta": 1.0199999804600002
+            },
+            {
+              "from": -0.00703725219,
+              "delta": 0.71779951419
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.999999881,
+              "delta": 1.999999762
+            },
+            {
+              "from": -0.999999523,
+              "delta": 1.999999046
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "Cd",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/plant.buf",
+    "bytes": 177002,
+    "header": {
+      "vertexCount": 5990,
+      "indexCount": 25008,
+      "attributes": [
+        {
+          "id": "branchSplinePos",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.00111170346,
+              "delta": 0.45009242246
+            },
+            {
+              "from": 0.000929612841,
+              "delta": 0.8881339241589999
+            },
+            {
+              "from": -0.436685175,
+              "delta": 0.43805650534999996
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "leafAxis",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 0.996139169
+            },
+            {
+              "from": -0.523120642,
+              "delta": 1.446956992
+            },
+            {
+              "from": -0.98239404,
+              "delta": 1.98239404
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.0143064791,
+              "delta": 0.5711135201
+            },
+            {
+              "from": -0.000403881073,
+              "delta": 0.9281287190730001
+            },
+            {
+              "from": -0.55399996,
+              "delta": 0.56231313063
+            }
+          ]
+        },
+        {
+          "id": "branchRatio",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "leafRatio",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "meshId",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/playground/tunnel.buf",
+    "bytes": 900,
+    "header": {
+      "vertexCount": 64,
+      "indexCount": 192,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -10,
+              "delta": 20
+            },
+            {
+              "from": -0.5,
+              "delta": 1
+            },
+            {
+              "from": -1,
+              "delta": 2
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_animations.buf",
+    "bytes": 336188,
+    "header": {
+      "vertexCount": 15264,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -1.36564612,
+              "delta": 2.69085717
+            },
+            {
+              "from": -1.16697264,
+              "delta": 3.18913389
+            },
+            {
+              "from": -1.02878809,
+              "delta": 2.55976892
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_glove_shoes.buf",
+    "bytes": 120976,
+    "header": {
+      "vertexCount": 2328,
+      "indexCount": 9858,
+      "attributes": [
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "boneWeights",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.500155032,
+              "delta": 0.499844968
+            },
+            {
+              "from": 0,
+              "delta": 0.499844998
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.999969661,
+              "delta": 1.999622643
+            },
+            {
+              "from": -0.99964565,
+              "delta": 1.988086283
+            },
+            {
+              "from": -0.999611616,
+              "delta": 1.999610841
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.644576013,
+              "delta": 1.289152026
+            },
+            {
+              "from": -0.0147080002,
+              "delta": 1.4882759602
+            },
+            {
+              "from": -0.308501989,
+              "delta": 0.46756698199999996
+            }
+          ]
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "boneIndices",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_helmet.buf",
+    "bytes": 172619,
+    "header": {
+      "vertexCount": 3403,
+      "indexCount": 12597,
+      "attributes": [
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "boneWeights",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.502820373,
+              "delta": 0.49717962699999996
+            },
+            {
+              "from": 0,
+              "delta": 0.497179598
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 2
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.240886003,
+              "delta": 0.481803
+            },
+            {
+              "from": 0.759455979,
+              "delta": 1.0859490010000001
+            },
+            {
+              "from": -0.223095998,
+              "delta": 0.411449984
+            }
+          ]
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "boneIndices",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_helmet_glass.buf",
+    "bytes": 5979,
+    "header": {
+      "vertexCount": 101,
+      "indexCount": 492,
+      "attributes": [
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "boneWeights",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 1,
+              "delta": 0
+            },
+            {
+              "from": 0,
+              "delta": 0
+            }
+          ]
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.915359795,
+              "delta": 1.829658508
+            },
+            {
+              "from": -0.972011685,
+              "delta": 1.951918482
+            },
+            {
+              "from": -0.439771831,
+              "delta": 1.43977052
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.162275001,
+              "delta": 0.324634
+            },
+            {
+              "from": 1.56932795,
+              "delta": 0.2328779700000001
+            },
+            {
+              "from": 0.0566359982,
+              "delta": 0.13581799679999998
+            }
+          ]
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0.0189189166,
+              "delta": 0.9810810834
+            }
+          ]
+        },
+        {
+          "id": "boneIndices",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_in_animation.buf",
+    "bytes": 1960,
+    "header": {
+      "vertexCount": 100,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": true,
+          "componentSize": 4,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.15200229,
+              "delta": 0.305134803
+            },
+            {
+              "from": -0.98480773,
+              "delta": 1.6475484969999998
+            },
+            {
+              "from": -0.143014774,
+              "delta": 0.5493068249999999
+            },
+            {
+              "from": -0.633839548,
+              "delta": 1.63131696
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.158061206,
+              "delta": 0.158061206
+            },
+            {
+              "from": -0.801183939,
+              "delta": 0.801183939
+            },
+            {
+              "from": 13,
+              "delta": 10
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_out_animation.buf",
+    "bytes": 2564,
+    "header": {
+      "vertexCount": 100,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 0.0109417439
+            },
+            {
+              "from": -0.25,
+              "delta": 0.350000001
+            },
+            {
+              "from": 13,
+              "delta": 10.100000399999999
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/astronaut_wearpack.buf",
+    "bytes": 193065,
+    "header": {
+      "vertexCount": 3683,
+      "indexCount": 16764,
+      "attributes": [
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "boneWeights",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.500142992,
+              "delta": 0.499857008
+            },
+            {
+              "from": 0,
+              "delta": 0.499857008
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.999857605,
+              "delta": 1.999811531
+            },
+            {
+              "from": -0.996886671,
+              "delta": 1.9806497699999999
+            },
+            {
+              "from": -0.999978483,
+              "delta": 1.9995119570000002
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.562554061,
+              "delta": 1.125221014
+            },
+            {
+              "from": 0.184717998,
+              "delta": 1.415724892
+            },
+            {
+              "from": -0.217847988,
+              "delta": 0.38698698600000003
+            }
+          ]
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "boneIndices",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/broken_glass.buf",
+    "bytes": 135904,
+    "header": {
+      "vertexCount": 7907,
+      "indexCount": 36090,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "piece",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.316414565,
+              "delta": 0.672783107
+            },
+            {
+              "from": -0.181550741,
+              "delta": 0.354481414
+            },
+            {
+              "from": -0.0119461156,
+              "delta": 0.0251045357
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/broken_glass_animation.buf",
+    "bytes": 312576,
+    "header": {
+      "vertexCount": 14190,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "orient",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -1.46573234,
+              "delta": 5.1427023499999995
+            },
+            {
+              "from": -2.24635649,
+              "delta": 4.61708403
+            },
+            {
+              "from": -0.0113055753,
+              "delta": 2.0788283353000003
+            }
+          ]
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/diamond.buf",
+    "bytes": 5104,
+    "header": {
+      "vertexCount": 217,
+      "indexCount": 1290,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -1,
+              "delta": 2
+            },
+            {
+              "from": -1,
+              "delta": 1.999999464
+            },
+            {
+              "from": -1,
+              "delta": 2
+            }
+          ]
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.497540891,
+              "delta": 0.995081782
+            },
+            {
+              "from": -0.329558492,
+              "delta": 0.673898101
+            },
+            {
+              "from": -0.497540891,
+              "delta": 0.995081782
+            }
+          ]
+        },
+        {
+          "id": "edge",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "thickness",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint8Array",
+          "packedComponents": [
+            {
+              "from": 0.11568547,
+              "delta": 0.059605532
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/earth_card.buf",
+    "bytes": 14156,
+    "header": {
+      "vertexCount": 584,
+      "indexCount": 2904,
+      "attributes": [
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.400000006,
+              "delta": 0.800000012
+            },
+            {
+              "from": -0.200000003,
+              "delta": 0.400000006
+            },
+            {
+              "from": -2.61388156e-09,
+              "delta": 0.9897180226138815
+            }
+          ]
+        },
+        {
+          "id": "uv",
+          "needsPack": true,
+          "componentSize": 2,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "normal",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int8Array",
+          "packedComponents": [
+            {
+              "from": -0.0481059328,
+              "delta": 0.41720110880000005
+            },
+            {
+              "from": 0,
+              "delta": 0.999998808
+            },
+            {
+              "from": -0.00850732811,
+              "delta": 1.00850732811
+            }
+          ]
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/grid_base_hd.buf",
+    "bytes": 90628,
+    "header": {
+      "vertexCount": 1280,
+      "indexCount": 1920,
+      "attributes": [
+        {
+          "id": "center",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "ao",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "areaRatio",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "height",
+          "needsPack": true,
+          "componentSize": 1,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": 0.000426846731,
+              "delta": 0.014518836369
+            }
+          ]
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        },
+        {
+          "id": "cluster",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/grid_base_ld.buf",
+    "bytes": 1636,
+    "header": {
+      "vertexCount": 16,
+      "indexCount": 24,
+      "attributes": [
+        {
+          "id": "center",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "cluster",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/grid_structure_hd.buf",
+    "bytes": 2912,
+    "header": {
+      "vertexCount": 96,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "rotAxis",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "gridIds",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/grid_structure_ld.buf",
+    "bytes": 12632,
+    "header": {
+      "vertexCount": 456,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "rotAxis",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "gridIds",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/tunnel_block_base.buf",
+    "bytes": 8760,
+    "header": {
+      "vertexCount": 142,
+      "indexCount": 252,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv2",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/models/tunnels/tunnel_block_wall.buf",
+    "bytes": 363860,
+    "header": {
+      "vertexCount": 5865,
+      "indexCount": 17430,
+      "attributes": [
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "tangent",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv2",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        }
+      ],
+      "meshType": "Mesh"
+    }
+  },
+  {
+    "file": "reference/assets/team/andrii.buf",
+    "bytes": 131308,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/team/edan.buf",
+    "bytes": 82280,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.999023438,
+              "delta": 1.998535157
+            },
+            {
+              "from": -0.999511719,
+              "delta": 1.998535157
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/team/ffi.buf",
+    "bytes": 82280,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.999511719,
+              "delta": 1.999023438
+            },
+            {
+              "from": -0.999511719,
+              "delta": 1.998535157
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/team/paul.buf",
+    "bytes": 82280,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Int16Array",
+          "packedComponents": [
+            {
+              "from": -0.999511719,
+              "delta": 1.999023438
+            },
+            {
+              "from": -0.999511719,
+              "delta": 1.999023438
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/team/pierre.buf",
+    "bytes": 82464,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.99755859375,
+              "delta": 1.9970703125
+            },
+            {
+              "from": -0.998046875,
+              "delta": 1.9970703125
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points",
+      "boundingSphere": {
+        "center": [
+          0.0009765625,
+          0.00048828125,
+          0.5
+        ],
+        "radius": 1.4899381290621525
+      },
+      "boundingBox": {
+        "min": [
+          -0.99755859375,
+          -0.998046875,
+          0
+        ],
+        "max": [
+          0.99951171875,
+          0.9990234375,
+          1
+        ]
+      }
+    }
+  },
+  {
+    "file": "reference/assets/team/sunny.buf",
+    "bytes": 82280,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.774621546,
+              "delta": 1.546215772
+            },
+            {
+              "from": -0.87386477,
+              "delta": 1.546594203
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points"
+    }
+  },
+  {
+    "file": "reference/assets/team/yannic.buf",
+    "bytes": 82468,
+    "header": {
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": true,
+          "componentSize": 3,
+          "storageType": "Uint16Array",
+          "packedComponents": [
+            {
+              "from": -0.9873046875,
+              "delta": 1.97314453125
+            },
+            {
+              "from": -0.99267578125,
+              "delta": 1.9921875
+            },
+            {
+              "from": 0,
+              "delta": 1
+            }
+          ]
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "meshType": "Points",
+      "boundingSphere": {
+        "center": [
+          -0.000732421875,
+          0.00341796875,
+          0.5
+        ],
+        "radius": 1.4317720902763797
+      },
+      "boundingBox": {
+        "min": [
+          -0.9873046875,
+          -0.99267578125,
+          0
+        ],
+        "max": [
+          0.98583984375,
+          0.99951171875,
+          1
+        ]
+      }
+    }
+  }
+]

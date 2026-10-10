@@ -1,0 +1,16 @@
+* text=auto
+
+# Reference fingerprints are byte-exact, including published text resources.
+reference/** -text -whitespace
+分析/20261010-live/source/** -text -whitespace
+*.buf -text
+*.exr -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.mp4 -text
+*.ogg -text
+*.woff -text
+*.woff2 -text
+*.ttf -text

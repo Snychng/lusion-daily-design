@@ -1,0 +1,15 @@
+{
+  "name": "Daily Design .Art",
+  "short_name": "Daily Design",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#e7efe8",
+  "background_color": "#e7efe8",
+  "icons": [
+    {
+      "src": "/brand-assets/media/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

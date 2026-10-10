@@ -1,0 +1,456 @@
+{
+  "generator": "scripts/build-brand-models.mjs",
+  "generatedAt": "2026-10-10T03:29:03.414Z",
+  "sourceGlyph": {
+    "font": "Bodoni Moda Medium Italic",
+    "fontSha256": "6d96edce889d7c615f94aa14e94e76ad5dba0611a02ccd0a970efe91dabb0078",
+    "glyph": "D"
+  },
+  "files": [
+    {
+      "path": "models/home/cross.buf",
+      "bytes": 124348,
+      "sha256": "73952b2e823db01191d9e93015768e179eb4a69e46f7bb9e3d31d214ce838dad",
+      "vertexCount": 1404,
+      "indexCount": 8424,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "SN",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "ao",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "thickness",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "daoN",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "daoP",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -1,
+          -1,
+          -1
+        ],
+        "max": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "path": "models/home/cross_ld.buf",
+      "bytes": 36696,
+      "sha256": "d7f766187e74eebe3485d8812cb184b925afd036661c24385bcd2d7c9d454449",
+      "vertexCount": 408,
+      "indexCount": 2448,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "normal",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "SN",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "ao",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "thickness",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "daoN",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "daoP",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "uv",
+          "needsPack": false,
+          "componentSize": 2,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -1,
+          -1,
+          -1
+        ],
+        "max": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "path": "models/about/logo_text.buf",
+      "bytes": 554462,
+      "sha256": "3b2230fdd3298fe3fd9ba61d77ef6c9823896349a7f57895cffb1f4e53611830",
+      "vertexCount": 28280,
+      "indexCount": 50733,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "char",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "indices",
+          "needsPack": false,
+          "componentSize": 1,
+          "storageType": "Uint16Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.000599999853875488,
+          0.03347747400403023,
+          0
+        ],
+        "max": [
+          1.000599980354309,
+          0.16747930645942688,
+          1
+        ]
+      },
+      "vectorWordmark": "Daily Design .Art",
+      "contract": "position.xy in original 1 × .200956762 box; position.z is edge coverage, not geometric depth; char normalized 0..5 for original transition"
+    },
+    {
+      "path": "team/daily.buf",
+      "bytes": 131328,
+      "sha256": "2d391e99eeac5a94e534000d9a8aeab0d2cc768e924ab309d8f5b338580bfb5b",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.9750000238418579,
+          -0.9749999642372131,
+          0.02500000409781933
+        ],
+        "max": [
+          0.9749900698661804,
+          0.9749999642372131,
+          0.9750000834465027
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "team/interface.buf",
+      "bytes": 131328,
+      "sha256": "1da8af34f4d46a6d68a1a68e151c002de03574aa8340f10f3d2de981ea4e5acf",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.9750000834465027,
+          -0.9750000834465027,
+          0.02500000409781933
+        ],
+        "max": [
+          0.9750000834465027,
+          0.9750000834465027,
+          0.9750000834465027
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "team/motion.buf",
+      "bytes": 131328,
+      "sha256": "05e48b5761c64d79b9ade067d97400019c6861d334e057d46231425014da2687",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.9747992157936096,
+          -0.9700233936309814,
+          0.02716134674847126
+        ],
+        "max": [
+          0.972897469997406,
+          0.9735740423202515,
+          0.973162829875946
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "team/refraction.buf",
+      "bytes": 131328,
+      "sha256": "f6f29bb6376b96116c5213550ae50400254d3715d6c7501786049455548dbd58",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.9601955413818359,
+          -0.9656646251678467,
+          0.02600947394967079
+        ],
+        "max": [
+          0.9628502726554871,
+          0.9659436941146851,
+          0.9746697545051575
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "team/particle.buf",
+      "bytes": 131328,
+      "sha256": "db53f67e4234510e771fbf0bc53de109b5ebdd4f22ac659394a4ab85b44bf81c",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.9690122604370117,
+          -0.9719648957252502,
+          0.02611897513270378
+        ],
+        "max": [
+          0.9697574377059937,
+          0.9734132289886475,
+          0.9738869667053223
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "team/spatial.buf",
+      "bytes": 131328,
+      "sha256": "d29db2b892f42f3aa97b63be2e9f8091fae2bdca279b2753e0e25443a6a80f45",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.97382652759552,
+          -0.9734572172164917,
+          0.02565326914191246
+        ],
+        "max": [
+          0.9742686152458191,
+          0.9736847877502441,
+          0.9747982621192932
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "team/prototype.buf",
+      "bytes": 131328,
+      "sha256": "26d6a41221b04d21e2488d685a0a08eacdc0460d6f8e5d77eb80c39decab1370",
+      "vertexCount": 8192,
+      "indexCount": 0,
+      "attributes": [
+        {
+          "id": "position",
+          "needsPack": false,
+          "componentSize": 3,
+          "storageType": "Float32Array"
+        },
+        {
+          "id": "nShade",
+          "needsPack": false,
+          "componentSize": 4,
+          "storageType": "Uint8Array"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.9749628901481628,
+          -0.974876344203949,
+          0.02500000409781933
+        ],
+        "max": [
+          0.9745573997497559,
+          0.9747682213783264,
+          0.9750000834465027
+        ]
+      },
+      "conceptStudy": true
+    },
+    {
+      "path": "textures/flip_texture.png",
+      "bytes": 11975,
+      "sha256": "c3950166264e363a70610d650e4ca779fc8ab0db4cc4022670478aa48184ed9d",
+      "width": 1024,
+      "height": 128,
+      "contract": "8 horizontal cells × RGB silhouettes; 23 used by published shader"
+    }
+  ],
+  "notes": [
+    "D generated by bevelled extrusion of the established Bodoni Moda Medium Italic D outline; each local axis refit to [-1,1] to keep original body scale and placement contract. UV, normal, smooth normal, AO, directional occlusion and thickness are generated; no flat logo is substituted for geometry.",
+    "The source font stem and bowl overlap. The watertight monogram therefore uses the existing unioned Daily Design contour from Daily-Design-ActiveTheory/src/assets/monogram-shape.json, copied locally as src/models/monogram-union-contours.json; SHA-256 c5cd2fccb2e59357aef589fef2a6527d14828294e809e94bb4a61c190e476c84. Its single counter remains open.",
+    "AO uses 20 deterministic hemisphere rays per vertex; directional occlusion uses 6 cardinal rays; thickness uses inward normal ray distance. These are geometry-derived baked approximations, not Lusion original offline bake values.",
+    "Seven new 8192-point surface samples replace real team portraits. Original GPU particles, mouse light, scanline, blur, glitch, transitions and point counts remain runtime-owned. faceId default must be patched from edan to daily.",
+    "Original astronaut helmet/wearpack base and face images were opened and inspected. No Lusion wordmark was visible in those maps. Retain the 53-bone rig, original cloth/metal normal/roughness/albedo maps and original animation buffers.",
+    "The published getCrossAoShadowIntersect still assumes 3-axis crosses; apply src/models/daily-neighbour-shadow.glsl as the function replacement for a D-shaped conservative analytic proxy, or explicitly report cross-shaped neighbour shadow/reflection approximation as unresolved."
+  ]
+}

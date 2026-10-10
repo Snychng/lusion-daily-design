@@ -1,0 +1,135 @@
+{
+  "gallery": {
+    "title": "Gallery",
+    "status": "Existing interface study",
+    "description": "Fourteen original graphic studies move through a spatial carousel. Tidal lines, long days and quiet doorways explore typography, reflection and the rhythm of a rotating interface.",
+    "work": "iridescent-gallery",
+    "sourceAssetId": "oryzo_ai"
+  },
+  "orbit": {
+    "title": "Orbit",
+    "status": "Existing interface study",
+    "description": "Fourteen pastel cards orbit a central Daily Design wordmark inside a phone composition. Dragging, opening and returning a card studies spatial hierarchy, inertia and chromatic edges.",
+    "work": "chromatic-orbit",
+    "sourceAssetId": "atlas_motion"
+  },
+  "interactive-narrative": {
+    "title": "Interactive Narrative",
+    "status": "Existing interface study",
+    "description": "A Daily Design D moves through a sequence of interactive scenes. The experiment studies the relationship between camera movement, particles, reflection and the pacing of a scroll-driven story.",
+    "work": null,
+    "sourceAssetId": "devin_ai"
+  },
+  "spatial-layers": {
+    "title": "Spatial Layers",
+    "status": "Existing interface study",
+    "description": "Three architectural silhouettes share one layered space. Changing viewpoint reveals different structures and makes depth, occlusion and the transitions between orthogonal views visible.",
+    "work": null,
+    "sourceAssetId": "of_the_oak"
+  },
+  "ocean-interface": {
+    "title": "Ocean Interface",
+    "status": "Existing interface study",
+    "description": "A continuous ocean surface connects two interface states. This study explores real-time water, the half-submerged waterline and the shift from an open horizon to underwater typography.",
+    "work": null,
+    "sourceAssetId": "everswap"
+  },
+  "light-studies": {
+    "title": "Light Studies",
+    "status": "Concept study",
+    "description": "A concept study of light as an interface material: focal contrast, bright edges, reflection and the way a moving highlight directs attention.",
+    "work": null,
+    "sourceAssetId": "porsche_dream_machine"
+  },
+  "optic-type": {
+    "title": "Optic Type",
+    "status": "Concept study",
+    "description": "A concept study of typography seen through optical surfaces. Letterforms, counters and edges provide a readable reference for reflection, refraction and distortion.",
+    "work": null,
+    "sourceAssetId": "synthetic_human"
+  },
+  "gesture-studies": {
+    "title": "Gesture Studies",
+    "status": "Concept study",
+    "description": "A concept study of direct manipulation. Pointer position, drag distance, release velocity and return motion describe a small vocabulary of tactile interface feedback.",
+    "work": null,
+    "sourceAssetId": "ddd_2024"
+  },
+  "focus-field": {
+    "title": "Focus Field",
+    "status": "Concept study",
+    "description": "A concept study of focus in a dense visual field. Scale, contrast and spacing help one object become prominent while the surrounding context remains legible.",
+    "work": null,
+    "sourceAssetId": "spaace"
+  },
+  "glass-slingshot": {
+    "title": "Glass Slingshot",
+    "status": "Concept study",
+    "description": "A concept study of curved tracks and elastic release. Its subject is the relation between a visible trajectory, pointer motion and the feeling of a controlled landing.",
+    "work": null,
+    "sourceAssetId": "choo_choo_world"
+  },
+  "material-lab": {
+    "title": "Material Lab",
+    "status": "Concept study",
+    "description": "A concept study of transparent interface materials. Thickness, edge highlights, chromatic separation and background contrast are treated as independent visual variables.",
+    "work": null,
+    "sourceAssetId": "zero_tech"
+  },
+  "spatial-notes": {
+    "title": "Spatial Notes",
+    "status": "Concept study",
+    "description": "A concept study of interfaces arranged in depth. Frames, layers and overlaps turn spatial relationships into a visual hierarchy that can still be read at a glance.",
+    "work": null,
+    "sourceAssetId": "spatial_fusion"
+  },
+  "motion-loop": {
+    "title": "Motion Loop",
+    "status": "Concept study",
+    "description": "A concept study of repeating movement. The same path can feel calm, mechanical or elastic when its speed profile, phase and pause are changed.",
+    "work": null,
+    "sourceAssetId": "worldcoin"
+  },
+  "interface-studies": {
+    "title": "Interface Studies",
+    "status": "Concept study",
+    "description": "A collection of concept notes on interface structure, motion and optical detail. Each note isolates a visible behavior so its cause and response can be studied.",
+    "work": null,
+    "sourceAssetId": "lusion_labs"
+  },
+  "paper-narrative": {
+    "title": "Paper Narrative",
+    "status": "Concept study",
+    "description": "A concept study of narrative through layered surfaces. Reveals, overlaps and changes in scale connect separate interface moments without losing their visual continuity.",
+    "work": null,
+    "sourceAssetId": "my_little_story_book"
+  },
+  "liquid-feedback": {
+    "title": "Liquid Feedback",
+    "status": "Concept study",
+    "description": "A concept study of responsive surfaces. Displacement, trails and gradual recovery show how a pointer gesture can leave a brief and readable trace.",
+    "work": null,
+    "sourceAssetId": "soda_experience"
+  },
+  "afterimage": {
+    "title": "Afterimage",
+    "status": "Concept study",
+    "description": "A concept study of temporal traces. A short history of positions makes motion visible and tests the balance between a clear current state and its fading past.",
+    "work": null,
+    "sourceAssetId": "infinite_passerella"
+  },
+  "sound-forms": {
+    "title": "Sound Forms",
+    "status": "Concept study",
+    "description": "A visual concept study of rhythm, repetition and amplitude. No original commercial soundtrack or client performance is claimed for this interface experiment.",
+    "work": null,
+    "sourceAssetId": "the_turn_of_the_screw"
+  },
+  "color-studies": {
+    "title": "Color Studies",
+    "status": "Concept study",
+    "description": "A concept study of color across translucent layers. Neighboring hues, gradients and the edges between them help reveal how the surface changes what lies behind it.",
+    "work": null,
+    "sourceAssetId": "maxmara_bearings_gifts"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "inspectedAt": "2026-10-10T03:26:52.706Z",
+  "method": "view_image opened source-review.webp at its saved 1600x1315 resolution",
+  "sourceReviewSha256": "54df54a7a0d3401165598edbd027aac971902bdd6fe50b2aff39fcacee5f24e2",
+  "reviewedProjectCells": 19,
+  "observations": [
+    "All 19 cells show the assigned Daily Design experiments or pre-existing generated concept covers.",
+    "Gallery and Orbit contain their actual webpage toolbars and brand wordmarks. Spatial Layers and Ocean preserve experiment names LAYER ATLAS and OCEAN inside screenshots.",
+    "Concept cover files intentionally repeat several historical cover families. No new image generation or claim of 19 different executable projects.",
+    "No old AI-service cards, original Lusion commercial project branding, or Star Ring photographic content is shown in the review sheet."
+  ],
+  "limitations": [
+    "This inspection covers media content, not the runtime container or Lusion effects.",
+    "Brightness-derived depth maps are proxies, not recovered geometry.",
+    "Existing videos received full decode checks; no new formal recording was made."
+  ]
+}

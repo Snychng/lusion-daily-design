@@ -1,0 +1,18 @@
+{
+  "replacements": {
+    "/assets/models/home/cross.buf": "/brand-assets/models/home/cross.buf",
+    "/assets/models/home/cross_ld.buf": "/brand-assets/models/home/cross_ld.buf",
+    "/assets/models/about/logo_text.buf": "/brand-assets/models/about/logo_text.buf",
+    "/assets/team/daily.buf": "/brand-assets/team/daily.buf",
+    "/assets/team/interface.buf": "/brand-assets/team/interface.buf",
+    "/assets/team/motion.buf": "/brand-assets/team/motion.buf",
+    "/assets/team/refraction.buf": "/brand-assets/team/refraction.buf",
+    "/assets/team/particle.buf": "/brand-assets/team/particle.buf",
+    "/assets/team/spatial.buf": "/brand-assets/team/spatial.buf",
+    "/assets/team/prototype.buf": "/brand-assets/team/prototype.buf",
+    "/assets/textures/flip_texture.png": "/brand-assets/textures/flip_texture.png",
+    "/assets/team/team.json": "/brand-assets/team/team.json",
+    "/assets/textures/tunnels/stickers.png": "/brand-assets/textures/tunnels/stickers.png",
+    "/assets/textures/tunnels/stickers_low.png": "/brand-assets/textures/tunnels/stickers_low.png"
+  }
+}

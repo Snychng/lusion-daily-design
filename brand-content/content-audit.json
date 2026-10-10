@@ -1,0 +1,238 @@
+{
+  "generatedBy": "python3 scripts/brand-content.py",
+  "brand": "Daily Design .Art",
+  "slogan": "Explore the art of UI, one day at a time.",
+  "github": "https://github.com/Snychng/daily-design",
+  "pageCount": 22,
+  "projectCount": 19,
+  "pages": [
+    {
+      "page": "index.html",
+      "sourcePage": "index.html",
+      "publicPath": "/",
+      "sourceSha256": "7d8c4682c32d604d58f5a0773989e5c1ea9819c23976aff6b9ff83ffd338e9cd",
+      "outputSha256": "645de5f59bb150bc034c5772e564fc5c8084321700d9b863d19a67cf975af843",
+      "edits": 125,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "about/index.html",
+      "sourcePage": "about/index.html",
+      "publicPath": "/about/",
+      "sourceSha256": "5131161c8ea06623eff3b2b84cbb0018ceae692b2663d0c9022e04327da8bb47",
+      "outputSha256": "86b72856e01948dacc29a9c0060a0d024b4131d36c43e42700e08c78e79dcab2",
+      "edits": 185,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/index.html",
+      "sourcePage": "projects/index.html",
+      "publicPath": "/projects/",
+      "sourceSha256": "2283d7b717be4f741556e8adeb06c3b2ac5e9ae10f030ed1d8dd71bf370ea6e0",
+      "outputSha256": "25e2cf7164e049ce41fa2920be6f308a222d405e7aa21c92a52cfd2e6b7069e5",
+      "edits": 130,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/orbit/index.html",
+      "sourcePage": "projects/atlas_motion/index.html",
+      "publicPath": "/projects/orbit/",
+      "sourceSha256": "3bdff2f5f6f591cf9ad57d0d5f0e2ba0b306082388627e9121e4bea9d7670998",
+      "outputSha256": "aced6fcf92f2c94950f5dda5021b7476711cee66b5ebd4c84db6099cfcc9d2ff",
+      "edits": 90,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/glass-slingshot/index.html",
+      "sourcePage": "projects/choo_choo_world/index.html",
+      "publicPath": "/projects/glass-slingshot/",
+      "sourceSha256": "a275c6e4811badf706db57b773e6477ec7940962cf1bab26f1e0d20eda682079",
+      "outputSha256": "93076f22a3eb505a7b56d46ccd1aef3df389111954a1d371b6c1a1ab26ab7816",
+      "edits": 95,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/gesture-studies/index.html",
+      "sourcePage": "projects/ddd_2024/index.html",
+      "publicPath": "/projects/gesture-studies/",
+      "sourceSha256": "93724ee562c0b636e8d78b87a712e8ac261a2c450b8f3ed1a584459f569fa643",
+      "outputSha256": "421fad3560e35bae79f7464f7c152edcbbcd8806a4f2b4745f77c2bf8f2b7a6c",
+      "edits": 89,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/interactive-narrative/index.html",
+      "sourcePage": "projects/devin_ai/index.html",
+      "publicPath": "/projects/interactive-narrative/",
+      "sourceSha256": "70ee6741fe6129f35a27c8d3d56043a04da33c8cf4276a4c14d7620cd1c7cc63",
+      "outputSha256": "a15c6698444ccb9e8ab6b7f83b2d21d807362191d571078ed25ed83a246f88b5",
+      "edits": 90,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/ocean-interface/index.html",
+      "sourcePage": "projects/everswap/index.html",
+      "publicPath": "/projects/ocean-interface/",
+      "sourceSha256": "52a4a5fb8f92cbca79626566321e7775cf851f043c3669dea4d93fd32917169f",
+      "outputSha256": "7128f9bc54aa5e92ca7cf95a91c3c39dc9b2b493d4c6cbd586f82619ebb7f8be",
+      "edits": 96,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/afterimage/index.html",
+      "sourcePage": "projects/infinite_passerella/index.html",
+      "publicPath": "/projects/afterimage/",
+      "sourceSha256": "413e13178319f46feb383cfe8ab6b6933692d94bd63cc7a1718e874d932fa7d3",
+      "outputSha256": "3ac16f889c872afb7cdd7bcb1423e61fbc1a25150d0665b142ec56644927d5fb",
+      "edits": 96,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/interface-studies/index.html",
+      "sourcePage": "projects/lusion_labs/index.html",
+      "publicPath": "/projects/interface-studies/",
+      "sourceSha256": "199b40a86d94a85bbe00fd2d3066c8048bc2e1700eabca7942ad14e9619befcf",
+      "outputSha256": "aa6e6dea47967ad34584e2e304704956a7b988e0c9aaaf21b30a62eaff01f1d1",
+      "edits": 96,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/color-studies/index.html",
+      "sourcePage": "projects/maxmara_bearings_gifts/index.html",
+      "publicPath": "/projects/color-studies/",
+      "sourceSha256": "79bb291fc679f9cf32bad7eb0c9b1a492f193bf14ed6946286a4dab0b30ee646",
+      "outputSha256": "218a1a004402bd8d6b60fe91cf8686a2201acd3938a438a2de55c8a57aa610de",
+      "edits": 89,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/paper-narrative/index.html",
+      "sourcePage": "projects/my_little_story_book/index.html",
+      "publicPath": "/projects/paper-narrative/",
+      "sourceSha256": "2857f3aca82024facea57fd3aca89624df67ac4c798b7efefa060c62dcde4635",
+      "outputSha256": "15afefe8112d63768e3b8ee5bdfb50d67cadece735f5d53ce7dcd9888bff4ea0",
+      "edits": 98,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/spatial-layers/index.html",
+      "sourcePage": "projects/of_the_oak/index.html",
+      "publicPath": "/projects/spatial-layers/",
+      "sourceSha256": "c4539b0783878bf113fb34df7d62c39ad3681236d92972654d3ff5446e0a963e",
+      "outputSha256": "b9c7a777b552a52bd212caad19b31e22fbd13212f7fcd9f32369843939c26843",
+      "edits": 98,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/gallery/index.html",
+      "sourcePage": "projects/oryzo_ai/index.html",
+      "publicPath": "/projects/gallery/",
+      "sourceSha256": "38822ca88981f9991614a4af15b048f2911099a0fd18afce0a87ffd19fd3142c",
+      "outputSha256": "3791bc44e621d54d965133cbd7f84dd89c8c5fdd9411df3f64f2100700a322a5",
+      "edits": 108,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/light-studies/index.html",
+      "sourcePage": "projects/porsche_dream_machine/index.html",
+      "publicPath": "/projects/light-studies/",
+      "sourceSha256": "554ca92fe0c25cf27bac04e43f85ba854ea04290101e0bec8e9acbdd7b933a01",
+      "outputSha256": "d8079e461f4acc582503d19cbd656297881140e02dc68c60a0f3266fedcf82d2",
+      "edits": 94,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/liquid-feedback/index.html",
+      "sourcePage": "projects/soda_experience/index.html",
+      "publicPath": "/projects/liquid-feedback/",
+      "sourceSha256": "ffac4aade1000e0eced1400eb2e2fa85d6c40cef88fea273a5473fb86ae01ced",
+      "outputSha256": "4e7c6fd02b66ee269bb90aa7682f310d97351d2aecae61ceccf1f1181c7f91fb",
+      "edits": 90,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/focus-field/index.html",
+      "sourcePage": "projects/spaace/index.html",
+      "publicPath": "/projects/focus-field/",
+      "sourceSha256": "4e1d2715890bbd0a21632c4d96b06cc270e3cee82d8c86ae3d39deb83d8740d8",
+      "outputSha256": "6d7fe264f9351a0d73547c4ce1ad4f5b11e49b2e3bbf4b6d475c9f1a03bd2f4d",
+      "edits": 91,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/spatial-notes/index.html",
+      "sourcePage": "projects/spatial_fusion/index.html",
+      "publicPath": "/projects/spatial-notes/",
+      "sourceSha256": "aa37865c941c105090d39a25c18600c55ad817151dfd7c3ef42c7fd77ef1741c",
+      "outputSha256": "2245ab9d8888d81cddc29a72129b3054b8a818279c1cd9d01c89f9b6ed68d6ff",
+      "edits": 91,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/optic-type/index.html",
+      "sourcePage": "projects/synthetic_human/index.html",
+      "publicPath": "/projects/optic-type/",
+      "sourceSha256": "e8ab93d5156b608ff7c4859fdb78aab281c30ff558c3a7fd5c06c7c6ebba4bf5",
+      "outputSha256": "ae8564adb2f96ad8ce02d6eb3d69faa7ab387e9883dc4ad243873807d3e73045",
+      "edits": 89,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/sound-forms/index.html",
+      "sourcePage": "projects/the_turn_of_the_screw/index.html",
+      "publicPath": "/projects/sound-forms/",
+      "sourceSha256": "681473a9ed92a1a09ea4f76e95997e6f7bd0f067d4acf0eb3b965b910e055c9b",
+      "outputSha256": "87803c830763776c63591b667ad263abfc0fc6ab454081364b87317695f1982c",
+      "edits": 92,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/motion-loop/index.html",
+      "sourcePage": "projects/worldcoin/index.html",
+      "publicPath": "/projects/motion-loop/",
+      "sourceSha256": "58a2b32a0a224b65642456b780c58cad3e98e6a38ab571792dca0a7c536ae889",
+      "outputSha256": "5325acf0dc8f619871a758097167029cc476f7b544b94b65765c491155ee57ce",
+      "edits": 92,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    },
+    {
+      "page": "projects/material-lab/index.html",
+      "sourcePage": "projects/zero_tech/index.html",
+      "publicPath": "/projects/material-lab/",
+      "sourceSha256": "baebba8ab6ab90f22fbe921fd47200ca12348b94f6812dd23d6ebd31d5bfd66d",
+      "outputSha256": "b1e96cddba8aba5ff2e5a6b15a5f359dbef0d94dcf1f996b46a78454ecc6ca0f",
+      "edits": 94,
+      "structurePreservedOutsideSvg": true,
+      "remainingOriginalClaims": []
+    }
+  ],
+  "notes": [
+    "Reference files are read only. Project IDs and routes use branded slugs. Original media filenames remain technical asset keys; routes.json declares the required thumbnail aliases.",
+    "All 22 pages preserve tag/id/class structure outside intentional SVG letter-artwork replacements and the added stylesheet/canonical links.",
+    "Video/media URL rewriting is supplied separately by brand-content/media-map.json and applied by the integration build.",
+    "Newsletter forms and input/button nodes remain present. Inputs are disabled and buttons carry data-brand-href. Integration must replace submit behavior and click destinations.",
+    "Existing interface study and concept study are content categories, not client commissions.",
+    "No new images or recordings were generated by this adapter."
+  ]
+}

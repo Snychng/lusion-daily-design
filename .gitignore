@@ -1,0 +1,28 @@
+/dist/
+/node_modules/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Keep the public resource manifest, technical notes and final verification runs.
+# Earlier exploratory captures remain local.
+/分析/20261010-live/*
+!/分析/20261010-live/asset-manifest.json
+!/分析/20261010-live/源码拆解.md
+!/分析/20261010-live/品牌素材盘点.md
+!/分析/20261010-live/交付验收.md
+!/分析/20261010-live/checks.json
+!/分析/20261010-live/syntax-checks.json
+!/分析/20261010-live/build.json
+!/分析/20261010-live/cleanup.json
+!/分析/20261010-live/native-tab-cleanup.json
+!/分析/20261010-live/source/
+!/分析/20261010-live/reference-20261010T034048671Z-*
+!/分析/20261010-live/brand-20261010T034608638Z-*
+!/分析/20261010-live/brand-20261010T035226668Z-*
+!/分析/20261010-live/public-20261010T035329185Z-*
+!/分析/20261010-live/brand-20261010T035443416Z-*

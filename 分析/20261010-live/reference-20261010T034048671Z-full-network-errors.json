@@ -1,0 +1,433 @@
+{
+  "mode": "reference",
+  "runId": "20261010T034048671Z",
+  "pageErrors": [
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:40:50.412Z",
+      "elapsedMs": 1740
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:40:50.412Z",
+      "elapsedMs": 1740
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:40:50.412Z",
+      "elapsedMs": 1740
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:40:50.412Z",
+      "elapsedMs": 1740
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:18.489Z",
+      "elapsedMs": 209817
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:18.489Z",
+      "elapsedMs": 209817
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:18.489Z",
+      "elapsedMs": 209817
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:18.489Z",
+      "elapsedMs": 209817
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:38.826Z",
+      "elapsedMs": 230154
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:38.826Z",
+      "elapsedMs": 230154
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:38.826Z",
+      "elapsedMs": 230154
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:44:38.827Z",
+      "elapsedMs": 230155
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:45:02.913Z",
+      "elapsedMs": 254241
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:45:02.913Z",
+      "elapsedMs": 254241
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:45:02.913Z",
+      "elapsedMs": 254241
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "message": "There was an error fetching the embed code from Vimeo.",
+      "stack": "Error: There was an error fetching the embed code from Vimeo.\n    at c.onerror (http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js:3721:6999)",
+      "at": "2026-10-10T03:45:02.913Z",
+      "elapsedMs": 254241
+    }
+  ],
+  "console": [
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "location": {
+        "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "at": "2026-10-10T03:40:50.409Z",
+      "elapsedMs": 1737
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "location": {
+        "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "at": "2026-10-10T03:44:18.485Z",
+      "elapsedMs": 209813
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "location": {
+        "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "at": "2026-10-10T03:44:38.826Z",
+      "elapsedMs": 230154
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "location": {
+        "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "at": "2026-10-10T03:45:02.912Z",
+      "elapsedMs": 254240
+    }
+  ],
+  "failedRequests": [
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "event": "failed",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "local": false,
+      "at": "2026-10-10T03:40:50.409Z",
+      "elapsedMs": 1737
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:40:50.424Z",
+      "elapsedMs": 1752
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-menu-repeat",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/audios/generic_end.ogg",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:40:57.620Z",
+      "elapsedMs": 8948
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-blackFrameIn-55",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/audios/cinematic_2.ogg",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:41:19.478Z",
+      "elapsedMs": 30806
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "local": false,
+      "at": "2026-10-10T03:44:18.485Z",
+      "elapsedMs": 209813
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/launch.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:20.045Z",
+      "elapsedMs": 211373
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/bts.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:20.054Z",
+      "elapsedMs": 211382
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/main.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:20.068Z",
+      "elapsedMs": 211396
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-2",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/atlas_motion/main.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:28.165Z",
+      "elapsedMs": 219493
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-2",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/main.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:28.166Z",
+      "elapsedMs": 219494
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-menu-return-home",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:34.099Z",
+      "elapsedMs": 225427
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "event": "failed",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "local": false,
+      "at": "2026-10-10T03:44:38.826Z",
+      "elapsedMs": 230154
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/mobile.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:38.834Z",
+      "elapsedMs": 230162
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/mobile.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:44:38.883Z",
+      "elapsedMs": 230211
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "event": "failed",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "local": false,
+      "at": "2026-10-10T03:45:02.912Z",
+      "elapsedMs": 254240
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:45:02.919Z",
+      "elapsedMs": 254247
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:45:02.939Z",
+      "elapsedMs": 254267
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:45:02.973Z",
+      "elapsedMs": 254301
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-touch-scroll-return",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:45:14.118Z",
+      "elapsedMs": 265446
+    }
+  ],
+  "blockedExternal": [
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "at": "2026-10-10T03:40:50.387Z",
+      "elapsedMs": 1715
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "at": "2026-10-10T03:44:18.469Z",
+      "elapsedMs": 209797
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "at": "2026-10-10T03:44:38.814Z",
+      "elapsedMs": 230142
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "url": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F761102167&id=761102167&width=100%25&height=100%25&responsive=true&title=false&controls=false&byline=false&end_screen=%5Bobject%20Object%5D",
+      "type": "xhr",
+      "at": "2026-10-10T03:45:02.904Z",
+      "elapsedMs": 254232
+    }
+  ]
+}

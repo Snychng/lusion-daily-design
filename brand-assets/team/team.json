@@ -1,0 +1,37 @@
+[
+  {
+    "id": "daily",
+    "name": "Daily Design .Art",
+    "role": "Brand form<br>Concept study"
+  },
+  {
+    "id": "interface",
+    "name": "Interface",
+    "role": "UI systems<br>Concept study"
+  },
+  {
+    "id": "motion",
+    "name": "Motion",
+    "role": "Movement & timing<br>Concept study"
+  },
+  {
+    "id": "refraction",
+    "name": "Refraction",
+    "role": "Optical materials<br>Concept study"
+  },
+  {
+    "id": "particle",
+    "name": "Particles",
+    "role": "Generative systems<br>Concept study"
+  },
+  {
+    "id": "spatial",
+    "name": "Spatial UI",
+    "role": "Depth & interaction<br>Concept study"
+  },
+  {
+    "id": "prototype",
+    "name": "Prototype",
+    "role": "Interaction design<br>Concept study"
+  }
+]

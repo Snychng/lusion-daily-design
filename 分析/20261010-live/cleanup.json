@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-10T03:58:17.567854+00:00",
+  "port": 4207,
+  "portReleased": true,
+  "lsofExit": 1,
+  "lsofOutput": "",
+  "connectResult": 61,
+  "ownedServerPIDs": [
+    10452,
+    37999,
+    45731,
+    51304
+  ],
+  "remainingOwnedServerOutput": "",
+  "ownedServersStopped": true,
+  "browsers": {
+    "reference-20261010T034048671Z-full-report.json": {
+      "ownedBrowserClosed": true,
+      "serverTouched": false,
+      "existingBrowserTouched": false
+    },
+    "brand-20261010T034608638Z-full-report.json": {
+      "ownedBrowserClosed": true,
+      "serverTouched": false,
+      "existingBrowserTouched": false
+    },
+    "brand-20261010T035226668Z-media-report.json": {
+      "ownedBrowserClosed": true,
+      "existingBrowserTouched": false,
+      "serverTouched": false
+    },
+    "brand-20261010T035443416Z-routes-report.json": {
+      "ownedBrowserClosed": true,
+      "existingBrowserTouched": false,
+      "serverTouched": false
+    },
+    "public-20261010T035329185Z-report.json": {
+      "ownedBrowserClosed": true,
+      "existingBrowserTouched": false,
+      "localServicesTouched": false
+    }
+  },
+  "allTestBrowsersClosed": true,
+  "nativeReferenceTab": {
+    "checkedAt": "2026-10-10T03:46:29.278744+00:00",
+    "ownedTargetId": "BB1EA48323F63BF2F155E4DDBE15220C",
+    "policy": "Metadata ownership check only; no page content read and no existing user tab operated.",
+    "url": "https://lusion.co/",
+    "closeResponse": "Target is closing",
+    "closed": true,
+    "status": "owned Lusion reference tab closed",
+    "verifiedAt": "2026-10-10T03:46:51.981010+00:00"
+  },
+  "Aten7Started": false,
+  "MessengerStarted": false,
+  "formalRecordingCreated": false,
+  "deployedOrPushed": false,
+  "readyForMessenger": true
+}

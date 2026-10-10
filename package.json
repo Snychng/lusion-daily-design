@@ -1,0 +1,1 @@
+{"name":"lusion-daily-design-study","private":true,"type":"module","scripts":{"dev":"node scripts/serve.mjs --mode=brand","reference":"node scripts/serve.mjs --mode=reference","build":"node scripts/build.mjs","check":"node scripts/check.mjs","verify":"node scripts/verify-browser.mjs"},"engines":{"node":">=22"}}

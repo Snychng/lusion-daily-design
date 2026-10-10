@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-10T03:46:29.278744+00:00",
+  "ownedTargetId": "BB1EA48323F63BF2F155E4DDBE15220C",
+  "policy": "Metadata ownership check only; no page content read and no existing user tab operated.",
+  "url": "https://lusion.co/",
+  "closeResponse": "Target is closing",
+  "closed": true,
+  "status": "owned Lusion reference tab closed",
+  "verifiedAt": "2026-10-10T03:46:51.981010+00:00"
+}

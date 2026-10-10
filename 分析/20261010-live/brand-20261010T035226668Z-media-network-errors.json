@@ -1,0 +1,86 @@
+{
+  "mode": "brand",
+  "runId": "20261010T035226668Z",
+  "pageErrors": [],
+  "console": [],
+  "failedRequests": [
+    {
+      "context": "desktop",
+      "step": "desktop-reel-position",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:28.419Z",
+      "elapsedMs": 1749
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-reel-position",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:28.419Z",
+      "elapsedMs": 1749
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-reel-open-play",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/audios/generic_end.ogg",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:37.133Z",
+      "elapsedMs": 10463
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-escape-close",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:40.924Z",
+      "elapsedMs": 14254
+    },
+    {
+      "context": "mobile",
+      "step": "mobile-reel-position",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/mobile.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:49.056Z",
+      "elapsedMs": 22386
+    },
+    {
+      "context": "mobile",
+      "step": "mobile-reel-position",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:49.095Z",
+      "elapsedMs": 22425
+    },
+    {
+      "context": "mobile",
+      "step": "mobile-reel-tap-open",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:52:56.855Z",
+      "elapsedMs": 30185
+    }
+  ],
+  "blockedExternal": []
+}

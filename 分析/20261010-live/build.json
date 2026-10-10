@@ -1,0 +1,18 @@
+{
+  "builtAt": "2026-10-10T06:48:35.851Z",
+  "files": 859,
+  "runtimeSha256": "b66dec669a1fa3d3fc59f670aa0868b403b795b31beb0cd885d26e6b7fd983c0",
+  "patches": [
+    "Replace Mailchimp submission with explicit GitHub navigation",
+    "Remove inactive remote Vimeo SDK and automatic embeds",
+    "Local recorded-study player adapter",
+    "Keep original overlay and replace remote player",
+    "Own content palette; original material response unchanged",
+    "Keep playback control label consistent",
+    "Cancel deferred playback on overlay close and guard asynchronous play",
+    "Do not resume a seek after closing the overlay",
+    "Use authored Daily Design experiment particles at About entry",
+    "D-shaped analytic neighbour optical proxy; material shaders retained"
+  ],
+  "modelMapPresent": true
+}

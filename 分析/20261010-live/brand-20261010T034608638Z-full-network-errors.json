@@ -1,0 +1,203 @@
+{
+  "mode": "brand",
+  "runId": "20261010T034608638Z",
+  "pageErrors": [],
+  "console": [
+    {
+      "context": "desktop",
+      "step": "desktop-about-load",
+      "type": "warning",
+      "text": "THREE.Color: Unknown color currentColor",
+      "location": {
+        "url": "http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js",
+        "lineNumber": 4,
+        "columnNumber": 87478
+      },
+      "at": "2026-10-10T03:48:30.450Z",
+      "elapsedMs": 141810
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-about-load",
+      "type": "warning",
+      "text": "THREE.Color: Unknown color currentColor",
+      "location": {
+        "url": "http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js",
+        "lineNumber": 4,
+        "columnNumber": 87478
+      },
+      "at": "2026-10-10T03:51:09.086Z",
+      "elapsedMs": 300446
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-about-load",
+      "type": "warning",
+      "text": "THREE.Color: Unknown color currentColor",
+      "location": {
+        "url": "http://127.0.0.1:4207/_astro/hoisted.CUO_IjfL.js",
+        "lineNumber": 4,
+        "columnNumber": 87478
+      },
+      "at": "2026-10-10T03:51:59.293Z",
+      "elapsedMs": 350653
+    }
+  ],
+  "failedRequests": [
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:46:10.434Z",
+      "elapsedMs": 1794
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:46:10.435Z",
+      "elapsedMs": 1795
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-home-reverse-blackTunnel",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/audios/generic_end.ogg",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:47:57.560Z",
+      "elapsedMs": 108920
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-about-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/audios/generic_end.ogg",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:48:30.306Z",
+      "elapsedMs": 141666
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:49:39.831Z",
+      "elapsedMs": 211191
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/launch.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:49:41.306Z",
+      "elapsedMs": 212666
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/main.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:49:41.311Z",
+      "elapsedMs": 212671
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-1",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/oryzo_ai/bts.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:49:41.311Z",
+      "elapsedMs": 212671
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-project-detail-2",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/projects/atlas_motion/main.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:49:49.391Z",
+      "elapsedMs": 220751
+    },
+    {
+      "context": "desktop",
+      "step": "desktop-menu-return-home",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:49:55.335Z",
+      "elapsedMs": 226695
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:50:00.204Z",
+      "elapsedMs": 231564
+    },
+    {
+      "context": "mobile-390x844",
+      "step": "mobile-390x844-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/mobile.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:50:00.204Z",
+      "elapsedMs": 231564
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/assets/textures/reel/desktop.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:51:43.519Z",
+      "elapsedMs": 334879
+    },
+    {
+      "context": "tablet-768x1024",
+      "step": "tablet-768x1024-home-load",
+      "event": "failed",
+      "url": "http://127.0.0.1:4207/brand-assets/media/recordings/gallery.mp4",
+      "type": "media",
+      "error": "net::ERR_ABORTED",
+      "local": true,
+      "at": "2026-10-10T03:51:43.521Z",
+      "elapsedMs": 334881
+    }
+  ],
+  "blockedExternal": []
+}

@@ -1,0 +1,84 @@
+{
+  "passed": 16,
+  "failed": 0,
+  "checks": [
+    {
+      "file": "scripts/smoke.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/build-brand-media.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/verify-browser.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/build-brand-lettering.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/verify-media.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/check.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/inspect-browser.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/build.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/verify-live-public.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/verify-brand-models.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/build-brand-models.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/serve.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/build-brand-stickers.mjs",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "src/local-player.js",
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "file": "scripts/download.py",
+      "passed": true
+    },
+    {
+      "file": "scripts/brand-content.py",
+      "passed": true
+    }
+  ]
+}
